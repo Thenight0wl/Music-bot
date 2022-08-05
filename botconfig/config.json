@@ -1,8 +1,8 @@
 {
-   "token": "Bot Token",
-   "prefix": "?",
+   "token": "",
+   "prefix": "+",
    "ownerIDS": [
-      "442355791412854784"
+      "1004817587886112909"
    ],
    "status": {
       "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/milrato",
@@ -13,14 +13,14 @@
    "clientsettings": {
       "nodes": [
          {
-            "host": "localhost",
-            "port": 2333,
-            "password": "youshallnotpass"
+            "host": "n1.lavalink.milrato.com",
+            "port": 10250,
+            "password": "discord.gg/milrato"
          }
       ]
    },
    "spotify": {
-      "clientID": "",
-      "clientSecret": ""
+      "clientID": "2d537cc21dfb44d6b063066b6c043b48",
+      "clientSecret": "e8b8d8c097de4e7d8fda1a414222db1e"
    }
 }
